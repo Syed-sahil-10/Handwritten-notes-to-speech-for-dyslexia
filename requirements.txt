@@ -1,0 +1,8 @@
+torch
+torchvision
+transformers
+Pillow
+opencv-python
+gradio
+gTTS
+language-tool-python
