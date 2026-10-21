@@ -33,6 +33,10 @@ This project aims to assist children with dyslexia by converting handwritten not
 3. Open the notebook in Google Colab or Jupyter Notebook.
 4. Run the cells in order and provide a handwritten image when prompted.
 
+## Project Demo
+
+![Handwritten Notes to Speech Demo](project-demo.png)
+
 ## ⚠️ Note
 This project is an educational prototype intended to support accessibility. Recognition errors may occur, so the generated text and speech should be checked for accuracy.
 
