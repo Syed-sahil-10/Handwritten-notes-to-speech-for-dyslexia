@@ -37,7 +37,7 @@ This project aims to assist children with dyslexia by converting handwritten not
 
 Here is the application converting handwritten notes into text and speech.
 
-![Handwritten Notes to Speech Demo](output.jpeg)
+![Handwritten Notes to Speech Demo](OUTPUT.jpeg)
 
 ## ⚠️ Note
 This project is an educational prototype intended to support accessibility. Recognition errors may occur, so the generated text and speech should be checked for accuracy.
